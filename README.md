@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**KpssKsps/KpssKsps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I am an MCA student passionate about software development. I have a strong foundation in Java and Python and love building mobile applications using Flutter. My goal is to create innovative and efficient solutions that enhance user experiences.
 
-Here are some ideas to get you started:
+## 💻 Skills
+- **Programming Languages:** Java, Python
+- **Mobile Development:** Flutter, Dart
+- **Other Skills:** Problem-solving, UI/UX design, API integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Projects
+Here are some of my exciting projects:
+- **SubMagic** - A smart video player 
+Let's collaborate and build something amazing! 🚀
+
